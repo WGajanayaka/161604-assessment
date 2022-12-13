@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mbrrace", "Mbrrace\Mbrrace.csproj", "{9AE270EA-91F6-4855-A6A4-AF5CC7D4DC8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AE270EA-91F6-4855-A6A4-AF5CC7D4DC8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AE270EA-91F6-4855-A6A4-AF5CC7D4DC8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AE270EA-91F6-4855-A6A4-AF5CC7D4DC8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AE270EA-91F6-4855-A6A4-AF5CC7D4DC8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1306DFC9-D14F-4B2F-B473-38C5980174FF}
+	EndGlobalSection
+EndGlobal
